@@ -1,0 +1,210 @@
+[
+  {
+    "Id": "0",
+    "Name": "Numerical_Methods v9.2 (release)",
+    "DevelopmentStatus": "Beta",
+    "Description": "This completely redesigned version of the *numerical* *methods* for new technology WPF in C # procedural method for NET 3.5.  XAML is used only to help that is being developed.",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2009-11-26T13:25:26.037-08:00",
+    "Files": [
+      {
+        "Id": "83f815d8-d8b4-4fd8-b3d9-aa8c57c0b9a1",
+        "FileName": "Numerical_Methods v9.2 (release).rar",
+        "Url": "./0/83f815d8-d8b4-4fd8-b3d9-aa8c57c0b9a1",
+        "Type": "Source Code",
+        "UploadDate": "2009-11-26T13:25:25.74-08:00"
+      }
+    ]
+  },
+  {
+    "Id": "1",
+    "Name": "NumericalMethodsLib v.9.01 (alpha)",
+    "DevelopmentStatus": "Alpha",
+    "Description": "This completely redesigned version of the *numerical* *methods* for new technology WPF in C # procedural method for NET 3.5.  XAML is used only to help that is being developed.",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2009-11-23T09:23:24.173-08:00",
+    "Files": [
+      {
+        "Id": "1ee699a7-33d4-452a-9074-d781da075fa8",
+        "FileName": "Numerical_Methods.rar",
+        "Url": "./1/1ee699a7-33d4-452a-9074-d781da075fa8",
+        "Type": "Source Code",
+        "UploadDate": "2009-11-23T09:23:23.957-08:00"
+      }
+    ]
+  },
+  {
+    "Id": "2",
+    "Name": "NumericalMethodsLib v.8.0 (alpha)",
+    "DevelopmentStatus": "Alpha",
+    "Description": "Numerical Methods on C charp",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2009-06-16T03:47:02.733-07:00",
+    "Files": [
+      {
+        "Id": "f227fcb6-9f2a-44c5-a408-d38ed59b8660",
+        "FileName": "NumericalMethodsLib_v.8.0.rar",
+        "Url": "./2/f227fcb6-9f2a-44c5-a408-d38ed59b8660",
+        "Type": "Source Code",
+        "UploadDate": "2009-06-16T03:47:02.53-07:00"
+      }
+    ]
+  },
+  {
+    "Id": "3",
+    "Name": "NumericalMethodsLib_v.7.0",
+    "DevelopmentStatus": "Alpha",
+    "Description": "Numerical Methods on C#",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2009-06-10T00:56:40.243-07:00",
+    "Files": [
+      {
+        "Id": "4e086d77-ca07-43a3-853d-ea9b94bcd002",
+        "FileName": "NumericalMethodsLib_v.7.0.rar",
+        "Url": "./3/4e086d77-ca07-43a3-853d-ea9b94bcd002",
+        "Type": "Source Code",
+        "UploadDate": "2009-06-10T00:56:40.01-07:00"
+      }
+    ]
+  },
+  {
+    "Id": "4",
+    "Name": "NumericalMethodsLib v.6.0 alpha",
+    "DevelopmentStatus": "Alpha",
+    "Description": "Numerical Methods Library v.6.0 alpha.",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2009-06-04T07:14:44.427-07:00",
+    "Files": [
+      {
+        "Id": "3fb7e571-8f42-473c-9437-fcbc632edfd5",
+        "FileName": "NumericalMethodsLib_v.6.0.rar",
+        "Url": "./4/3fb7e571-8f42-473c-9437-fcbc632edfd5",
+        "Type": "Source Code",
+        "UploadDate": "2009-06-04T07:14:44.177-07:00"
+      }
+    ]
+  },
+  {
+    "Id": "5",
+    "Name": "NumericalMethods v5.0",
+    "DevelopmentStatus": "Stable",
+    "Description": "Numerical Methods on C#.",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2009-06-02T04:41:14.483-07:00",
+    "Files": [
+      {
+        "Id": "c4630c2a-ea42-44b3-8de3-1d6f6b9b237d",
+        "FileName": "NumericalMethods v5.0.rar",
+        "Url": "./5/c4630c2a-ea42-44b3-8de3-1d6f6b9b237d",
+        "Type": "Source Code",
+        "UploadDate": "2009-06-02T04:41:14.373-07:00"
+      }
+    ]
+  },
+  {
+    "Id": "6",
+    "Name": "Numerical Methods Library v.5.0 alpha",
+    "DevelopmentStatus": "Alpha",
+    "Description": "Numerical Methods Library v.5.0 alpha.",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2009-06-02T06:17:47.75-07:00",
+    "Files": [
+      {
+        "Id": "659b39d6-8b46-4a22-9409-79f6c50fe77f",
+        "FileName": "NumericalMethodsLib_v.5.0.zip",
+        "Url": "./6/659b39d6-8b46-4a22-9409-79f6c50fe77f",
+        "Type": "Source Code",
+        "UploadDate": "2009-06-01T13:02:58.77-07:00"
+      }
+    ]
+  },
+  {
+    "Id": "7",
+    "Name": "Numerical Methods on C sharp",
+    "DevelopmentStatus": "Stable",
+    "Description": "Numerical Methods ",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2009-05-26T03:16:26.15-07:00",
+    "Files": [
+      {
+        "Id": "4e1e19f4-a993-42a0-8377-6d1277bdaeec",
+        "FileName": "NumericalMethods v4.0.rar",
+        "Url": "./7/4e1e19f4-a993-42a0-8377-6d1277bdaeec",
+        "Type": "Source Code",
+        "UploadDate": "2009-05-26T03:16:26.007-07:00"
+      }
+    ]
+  },
+  {
+    "Id": "8",
+    "Name": "Initial release for test.",
+    "DevelopmentStatus": "Alpha",
+    "Description": "Initial release for test.",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2009-05-20T12:46:29.54-07:00",
+    "Files": [
+      {
+        "Id": "05ba4973-26d7-4adc-8e89-7278a79915f3",
+        "FileName": "NumericalMethods v3.0.rar",
+        "Url": "./8/05ba4973-26d7-4adc-8e89-7278a79915f3",
+        "Type": "Source Code",
+        "UploadDate": "2009-05-20T12:46:29.383-07:00"
+      }
+    ]
+  },
+  {
+    "Id": "9",
+    "Name": "My work on C sharp",
+    "DevelopmentStatus": "Stable",
+    "Description": "Program for the decision of differential, systems of diferencials equalizations, systems of linear equalizations, nonlinear equalizations, integrals and other tasks, each of which decides a few methods.",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2009-05-20T02:07:26.48-07:00",
+    "Files": [
+      {
+        "Id": "caded0f1-5c16-4b59-8866-4b981c67a43a",
+        "FileName": "Metods.rar",
+        "Url": "./9/caded0f1-5c16-4b59-8866-4b981c67a43a",
+        "Type": "Application",
+        "UploadDate": "2009-05-11T06:22:43.313-07:00"
+      },
+      {
+        "Id": "7ba24291-88ea-4620-bfcd-8a56e70bf9c8",
+        "FileName": "Metods.rar",
+        "Url": "./9/7ba24291-88ea-4620-bfcd-8a56e70bf9c8",
+        "Type": "Source Code",
+        "UploadDate": "2009-05-12T00:42:33.493-07:00"
+      },
+      {
+        "Id": "3c875ca5-12b2-448c-9f06-5dcd1fbda10e",
+        "FileName": "NumericalMethods.rar",
+        "Url": "./9/3c875ca5-12b2-448c-9f06-5dcd1fbda10e",
+        "Type": "Source Code",
+        "UploadDate": "2009-05-14T05:24:20.95-07:00"
+      },
+      {
+        "Id": "ed309363-bdf4-442d-8938-36657b74a57a",
+        "FileName": "NumericalMethods v3.0.rar",
+        "Url": "./9/ed309363-bdf4-442d-8938-36657b74a57a",
+        "Type": "Source Code",
+        "UploadDate": "2009-05-20T02:07:26.28-07:00"
+      }
+    ]
+  },
+  {
+    "Id": "10",
+    "Name": "Numerical Methods v.9.3",
+    "DevelopmentStatus": "Alpha",
+    "Description": "New version of Numerical Methods on C#.",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2009-11-30T08:15:33.987-08:00",
+    "Files": [
+      {
+        "Id": "b46cedb6-1121-4778-ad83-fef5460102bd",
+        "FileName": "NumericalMethods_v.9.3_install.zip",
+        "Url": "./10/b46cedb6-1121-4778-ad83-fef5460102bd",
+        "Type": "Application",
+        "UploadDate": "2009-11-30T08:15:33.77-08:00"
+      }
+    ]
+  }
+]

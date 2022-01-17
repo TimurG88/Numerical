@@ -1,0 +1,50 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "",
+    "ClosedDate": null,
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "Seems that LogNormal distibution was not included.",
+    "LastUpdatedDate": "2013-02-14T12:22:13.4-08:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Low",
+      "Severity": 50,
+      "Id": 1
+    },
+    "ProjectName": "numerical",
+    "ReportedDate": "2010-02-23T11:56:37.57-08:00",
+    "Status": {
+      "Name": "Proposed",
+      "Id": 1
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "LogNormal distr",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 1,
+    "Id": 4009
+  },
+  "FileAttachments": [],
+  "Comments": [
+    {
+      "Message": "this bug is corrected in the new features. ",
+      "PostedDate": "2010-06-18T01:12:54.157-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-02-14T12:22:13.4-08:00",
+      "Id": -2147483648
+    }
+  ]
+}

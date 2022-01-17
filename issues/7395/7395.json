@@ -1,0 +1,39 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "",
+    "ClosedDate": null,
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "Dears\n i am new member here and i have a proposal , instead of having many classes related to matrices math , we can implement one class called matrix which will have many methods ( det. , transpose , inv......) and we also can make operator override , instead of having one class for each method.\n\n\nthanks\nahmed osama",
+    "LastUpdatedDate": "2013-04-11T09:16:24.67-07:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Low",
+      "Severity": 50,
+      "Id": 1
+    },
+    "ProjectName": "numerical",
+    "ReportedDate": "2013-04-11T09:16:24.67-07:00",
+    "Status": {
+      "Name": "Proposed",
+      "Id": 1
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Converting the matrices classes to one unified class",
+    "Type": {
+      "Name": "Feature",
+      "Id": 1
+    },
+    "VoteCount": 1,
+    "Id": 7395
+  },
+  "FileAttachments": [],
+  "Comments": []
+}

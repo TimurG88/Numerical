@@ -1,0 +1,10 @@
+[
+  {
+    "Id": "673092",
+    "ThreadId": "272928",
+    "Html": "<p>Trying to figure out where to start with this. The equation contains two unknowns and the solution for x or y is&nbsp;<strong>always</strong>&nbsp;a positive number.</p>\n<p>Given&nbsp;<code>a = 123</code>&nbsp;and&nbsp;<code>b = 55</code>&nbsp;and c = 5. In this case&nbsp;<code>x = 31</code>&nbsp;and&nbsp;<code>y = 93</code>&nbsp;but I don't know that ahead of time and I'm trying to write a function in C# to solve it.</p>\n<pre class=\"lang-cs prettyprint\"><code><span class=\"pln\">a </span><span class=\"pun\">-</span><span class=\"pln\"> </span><span class=\"pun\">(</span><span class=\"pln\">x </span><span class=\"pun\">+</span><span class=\"pln\"> </span><span class=\"lit\">1</span><span class=\"pun\">)</span><span class=\"pln\"> </span><span class=\"pun\">*</span><span class=\"pln\"> </span><span class=\"lit\">96</span><span class=\"pln\"> </span><span class=\"pun\">-</span><span class=\"pln\"> </span><span class=\"pun\">(</span><span class=\"pln\">y </span><span class=\"pun\">+</span><span class=\"pln\"> </span><span class=\"lit\">2</span><span class=\"pun\">)</span><span class=\"pln\"> </span><span class=\"pun\">+</span><span class=\"pln\"> </span><span class=\"lit\">3104</span><span class=\"pln\"> </span><span class=\"pun\">-</span><span class=\"pln\"> c </span><span class=\"pun\">=</span><span class=\"pln\"> b<br /></span></code></pre>\n<p>Also if&nbsp;<code>a = 30</code>&nbsp;and&nbsp;<code>b = 8</code>&nbsp;and c = 19 then&nbsp;<code>x = 32</code>&nbsp;and&nbsp;<code>y = 35</code></p>\n<p>so for: Round 1 function solveX(123, 55, 5) returns 31 function solveY(123, 55, 5) returns 93</p>\n<p>Round 2 function solveX(30, 8, 19) returns 32 function solveY(30, 8, 19) returns 35</p>\n<p>Any pointers on where to get started would be great.</p>\n<p>Thanks.</p>",
+    "PostedDate": "2011-09-17T05:56:06.837-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

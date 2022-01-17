@@ -1,0 +1,39 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "",
+    "ClosedDate": null,
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "Hello, I was working on a similar project (but in C++), then I found this. Now, I am thinking of instead improve upon this project.\nI only know git, but GitHub doesn't support CodePlex/s SVN, but it does support TFS, unfortunately, you need to be a member of the project to access it via TFS.\n\nSo, can anyone add me as a team member?",
+    "LastUpdatedDate": "2015-12-31T09:54:17.137-08:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Unassigned",
+      "Severity": 0,
+      "Id": 0
+    },
+    "ProjectName": "numerical",
+    "ReportedDate": "2015-12-31T09:54:17.137-08:00",
+    "Status": {
+      "Name": "Proposed",
+      "Id": 1
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Can anyone please add me as a team member?",
+    "Type": {
+      "Name": "Unassigned",
+      "Id": 5
+    },
+    "VoteCount": 1,
+    "Id": 8053
+  },
+  "FileAttachments": [],
+  "Comments": []
+}
