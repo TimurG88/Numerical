@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{433DB800-F152-4FB9-8355-28E9C9B4E414}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Numerical</RootNamespace>
+    <AssemblyName>Numerical</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Default.cs" />
+    <Compile Include="DlgAbout.cs" />
+    <Compile Include="DlgInputFunction.cs" />
+    <Compile Include="DlgInputMatrix.cs" />
+    <Compile Include="DlgInputSystemEquation.cs" />
+    <Compile Include="DlgMethods.cs" />
+    <Compile Include="DlgPrecision.cs" />
+    <Compile Include="ImagedTreeViewItem.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="RoundedButton.cs" />
+    <Compile Include="RoundedButtonDecorator.cs" />
+    <Compile Include="SyntaxRichTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TreeViewMenuAdd.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Help\Help.csproj">
+      <Project>{7c72c923-dad5-4b16-b16f-e89fa2ecfffc}</Project>
+      <Name>Help</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NumericalMethodsLibrary\NumericalMethodsLibrary.csproj">
+      <Project>{6bc6d82e-9743-45e5-99b1-5d7a962c1ce0}</Project>
+      <Name>NumericalMethodsLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Parser\Parser.csproj">
+      <Project>{caa4c1ae-edbf-48fb-9906-ff7bf39e9c2f}</Project>
+      <Name>Parser</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Theory\Approximation\1.png" />
+    <Resource Include="Theory\Approximation\image\1.png" />
+    <Content Include="Theory\Approximation\MethodBisectin.htm" />
+    <Content Include="Theory\Approximation\MethodIteration.htm" />
+    <Content Include="Theory\Approximation\MethoHord.htm" />
+    <Content Include="Theory\Approximation\MethoNewton.htm" />
+    <Content Include="Theory\DifferentialEquations\EulerCorrected.htm" />
+    <Content Include="Theory\DifferentialEquations\EulerModified.htm" />
+    <Content Include="Theory\DifferentialEquations\EulerSimple.htm" />
+    <Content Include="Theory\DifferentialEquations\RungeKutta.htm" />
+    <Content Include="Theory\free.htm" />
+    <Content Include="Theory\Integration\Chebishev.htm" />
+    <Content Include="Theory\Integration\Simpson.htm" />
+    <Content Include="Theory\Integration\Simpson2.htm" />
+    <Content Include="Theory\Integration\Trapezium.htm" />
+    <Content Include="Theory\Interpolation\BarycentricInterpolation.htm" />
+    <Content Include="Theory\Interpolation\LagrangeInterpolator.htm" />
+    <Content Include="Theory\Interpolation\NevilleInterpolator.htm" />
+    <Content Include="Theory\Interpolation\NewtonInterpolator.htm" />
+    <Content Include="Theory\Interpolation\SplineInterpolator.htm" />
+    <Content Include="Theory\LinearSystems\Gaus.htm" />
+    <Content Include="Theory\LinearSystems\Zeidel.htm" />
+    <Content Include="Theory\NonLinear\HalfDivision.htm" />
+    <Content Include="Theory\NonLinear\MetodHord.htm" />
+    <Content Include="Theory\NonLinear\Newton.htm" />
+    <Content Include="Theory\NonLinear\Secant.htm" />
+    <Content Include="Theory\Optimizing\Brentopt.htm" />
+    <Content Include="Theory\Optimizing\CorrelationPearson.htm" />
+    <Content Include="Theory\Optimizing\GoldenSection.htm" />
+    <Content Include="Theory\Optimizing\Pijavsky.htm" />
+    <Content Include="Theory\Statistics\CorrelationPearson.htm" />
+    <Content Include="Theory\Statistics\CorrelationSpearmansRank.htm" />
+    <Content Include="Theory\Statistics\DescriptiveStatisticsADev.htm" />
+    <Content Include="Theory\Statistics\DescriptiveStatisticsMedian.htm" />
+    <Content Include="Theory\Statistics\DescriptiveStatisticsMoments.htm" />
+    <Content Include="Theory\Statistics\DescriptiveStatisticsPercentile .htm" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
